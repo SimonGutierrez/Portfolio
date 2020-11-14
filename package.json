@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d html5up-hyperspace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonGutierrez/Portfolio.git/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonGutierrez/Portfolio/issues"
+  },
+  "homepage": "https://SimonGutierrez.github.io/Portfolio"
+}
