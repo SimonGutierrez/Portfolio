@@ -3932,3 +3932,19 @@ input, select, textarea {
 		.clearfix{
 			clear:both
 		}
+
+		.readMe{
+			width:55%;
+			margin-right:2%;
+			float: left;
+		}
+		.readMe iframe{
+		   width:100%;
+		}
+		.paragraph {
+			width:42%;
+			float: left;
+		}
+		.clearfix{
+			clear:both
+		}
