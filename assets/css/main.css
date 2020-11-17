@@ -1993,12 +1993,20 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+		.features div section {
+			padding: 3.5em 3em 1em 7em ;
+			width: 100%;
+			border-top: solid 1px rgba(255, 255, 255, 0.15);
+			position: relative;
+		}
+
 		.features section {
 			padding: 3.5em 3em 1em 7em ;
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
 		}
+
 
 			.features section:nth-child(-n + 2) {
 				border-top-width: 0;
@@ -3907,4 +3915,36 @@ input, select, textarea {
 				background-attachment: scroll;
 			}
 
+		}
+
+		.presentation_ReadMe{
+			width:55%;
+			margin-right:2%;
+			float: left;
+		}
+		.presentation_ReadMe iframe{
+		   width:100%;
+		}
+		.paragraph {
+			width:42%;
+			float: left;
+		}
+		.clearfix{
+			clear:both
+		}
+
+		.readMe{
+			width:55%;
+			margin-right:2%;
+			float: left;
+		}
+		.readMe iframe{
+		   width:100%;
+		}
+		.paragraph {
+			width:42%;
+			float: left;
+		}
+		.clearfix{
+			clear:both
 		}
