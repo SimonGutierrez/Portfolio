@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d html5up-hyperspace"
+    "deploy": "gh-pages -d html"
   },
   "repository": {
     "type": "git",
