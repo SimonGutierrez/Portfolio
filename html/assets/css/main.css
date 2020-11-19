@@ -3938,22 +3938,6 @@ input, select, textarea {
 
 		}
 
-		.presentation_ReadMe{
-			width:55%;
-			margin-right:2%;
-			float: left;
-		}
-		.presentation_ReadMe iframe{
-		   width:100%;
-		}
-		.paragraph {
-			width:42%;
-			float: left;
-		}
-		.clearfix{
-			clear:both
-		}
-
 		.readMe{
 			width:55%;
 			margin-right:2%;
