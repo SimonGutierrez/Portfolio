@@ -3943,6 +3943,17 @@ input, select, textarea {
 			margin-right:2%;
 			float: left;
 		}
+
+		@media screen and (max-width: 600px) {
+			.readMe{
+				width:100%;
+			}
+
+			.features div section h3 {
+				padding: 0em 0em 0em 0em;
+			}
+		}
+		
 		.readMe iframe{
 		   width:100%;
 		}
