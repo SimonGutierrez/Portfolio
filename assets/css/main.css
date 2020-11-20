@@ -3938,27 +3938,22 @@ input, select, textarea {
 
 		}
 
-		.presentation_ReadMe{
-			width:55%;
-			margin-right:2%;
-			float: left;
-		}
-		.presentation_ReadMe iframe{
-		   width:100%;
-		}
-		.paragraph {
-			width:42%;
-			float: left;
-		}
-		.clearfix{
-			clear:both
-		}
-
 		.readMe{
 			width:55%;
 			margin-right:2%;
 			float: left;
 		}
+
+		@media screen and (max-width: 600px) {
+			.readMe{
+				width:100%;
+			}
+
+			.features div section h3 {
+				padding: 0em 0em 0em 0em;
+			}
+		}
+		
 		.readMe iframe{
 		   width:100%;
 		}
